@@ -2,7 +2,7 @@
 
 The repository contains a reproducible R pipeline for cleaning, matching, and validating pediatric hospital **admission** and **discharge** records in Liberia. The pipeline links admissions to discharges, resolves **duplicate** cases (readmissions, twins, transfers), and produces a single dataset.
 
-## Download the folder structure and files, add the data locally, and run to create the final dataset.
+**Overview:** Download the folder structure and files, open R, add the data into the data/raw folder locally, and run the main script create the final dataset.
 
 ## Quick Start
 
