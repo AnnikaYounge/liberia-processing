@@ -68,5 +68,6 @@ README.md
 -   You can re‑run the pipeline at any time; outputs will be overwritten.
 -   If you maintain separate data uploads, keep them in dated subfolders under `data/raw/` and update paths in `01_data_load.R` accordingly.
 -   For deterministic sampling in validation, a fixed seed is set inside `05_validation.R`. Change for different validation sets.
-
+-   Feel free to contact me with any setup, code, data, or other questions!
+  
 *Last updated: September 14, 2025*
