@@ -13,7 +13,7 @@ The repository contains a reproducible R pipeline for cleaning, matching, and va
 
 ``` r
 source("run_all.R")
-This will install/load packages (via `R/00_setup.R`), run the scripts in
+% This will install/load packages (via `R/00_setup.R`), run the scripts in
 order, and write outputs to `data/processed/`.
 ```
 
