@@ -1,6 +1,6 @@
 # Liberia – code for data processing & analysis
 
-The repository contains a reproducible R pipeline for cleaning, matching, and validating pediatric hospital **admission** and **discharge** records in Liberia. The pipeline links admissions to discharges, resolves **duplicate** cases (readmissions, twins, transfers), and produces a single dataset. The analysis code then provides starting tables and figures.
+The repository contains a reproducible R pipeline for cleaning, matching, and validating pediatric hospital **admission** and **discharge** records in Liberia. The pipeline links admissions to discharges and resolves duplicate cases (readmissions, twins, transfers). The analysis code then provides starting tables and figures about the final dataset.
 
 ---
 
