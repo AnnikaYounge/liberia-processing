@@ -66,17 +66,16 @@ analysis/                        # analysis (tables + figures)
   80_utilization.R
   90_geo_and_missing.R
   run_analysis.R
+  analysis_outputs/              # PNGs + CSVs from the analysis
 
 data/
   raw/         # put the raw data files here (not versioned)
   processed/   # final outputs from the pipeline
   formatting/  # data dictionaries / label/type specifications
 
-analysis_outputs/                # PNGs + CSVs from the analysis
 
 run_all.R
 README.md
-LICENSE
 ```
 
 ---
