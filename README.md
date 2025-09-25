@@ -165,8 +165,8 @@ README.md
 
 ## data protection
 
-The processed dataset includes sensitive fields (names, hospital ids, medical data). Keep the
-repository private and share outputs only with authorized collaborators.
+The processed dataset includes sensitive fields (names, hospital ids, medical data). Keep the data local and private. Only share general code.
+
 ---
 
 *Last updated: September 25, 2025*
